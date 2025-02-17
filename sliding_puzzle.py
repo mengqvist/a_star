@@ -289,7 +289,7 @@ def astar_search(initial_state: list[int], goal_state: list[int], max_states: in
     
     # Priority queue of (f_score, g_score, state, path)
     # f_score = g_score + h_score (path cost + heuristic)
-    queue = [(0 + calculate_manhattan_distance(initial_state, goal_state), 0, initial_state, [initial_state])]
+    queue = [(0 + calculate_manhattan_distance_with_linear_conflicts(initial_state, goal_state), 0, initial_state, [initial_state])]
     
     # Keep track of best g_score for each state
     g_scores = {initial_state: 0}
