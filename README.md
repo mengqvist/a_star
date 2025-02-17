@@ -231,14 +231,14 @@ Remember: in problem solving, you don't need to know exactly how to reach your g
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sliding-puzzle.git
-   cd sliding-puzzle
+   git clone https://github.com/mengqvist/a_star.git
+   cd a_star
    ```
 
 3. Create and activate the Conda environment:
    ```bash
    conda env create -f environment.yml
-   conda activate sliding-puzzle
+   conda activate astar
    ```
 
 4. Run the code:
