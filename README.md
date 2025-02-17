@@ -224,6 +224,9 @@ The complete code for this exploration, including a simple bidirectional A* impl
 
 Remember: in problem solving, you don't need to know exactly how to reach your goal - you just need to know if you're getting warmer or colder.
 
+Richard Hamming put it best:
+> "If you don't have a goal, you're like a drunkard stumbling about. But if that drunkard has a destination—even if his walk is random—he's likely to end up somewhere useful."
+
 
 ## Installation and Running the Code
 
