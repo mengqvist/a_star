@@ -1,4 +1,3 @@
-import matplotlib.pyplot as plt
 
 def print_board(state: list[int]) -> None:
     """
