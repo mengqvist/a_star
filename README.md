@@ -250,3 +250,6 @@ Richard Hamming put it best:
    ```
 
 The visualization will show each step of the solution path.
+
+## Final Note
+This is a personal learning project intended to illustrate how the A* algorithm works. If you need a computationally efficient implementation of the algorithm it may be best to look elsewhere, but suggestions on improvements and discussions are welcome! Feel free to open an issue or submit a pull request. 
